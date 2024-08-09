@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ui import Button, View
 
 # Substitua pelo seu token
-TOKEN = 'MTI3MTE2MTc4NDM3OTc3MzEzMg.GF6wRU.lcvJrT0Z8sstwrO1feCk-qZmowCSjPIpH5Pz4I'
+TOKEN = 'TOKEN'
 
 # Defina os intents para o bot
 intents = discord.Intents.default()

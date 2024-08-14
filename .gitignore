@@ -1,0 +1,25 @@
+# Ignorar arquivos de configuração com tokens
+*.env
+config.json
+
+# Ignorar o banco de dados SQLite
+*.db
+
+# Ignorar pastas de dependências
+*.venv/
+*.env/
+python_modules/
+__pycache__/
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar IDEs e editores específicos
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
